@@ -54,6 +54,7 @@ A portable messaging device using NRF24L01+ modules for communication on the 2.4
 
 ### Power System
 Li-Ion 3.7V Battery → TP4056 (B+/B-)
+<br/>
 TP4056 OUT → Switch → Arduino Nano VCC/GND
 
 ## Power Management
