@@ -2,7 +2,7 @@
 
 A portable messaging device using NRF24L01+ modules for communication on the 2.4GHz band with an effective range of 1-2km.
 
-<img width="660" height="325" alt="image" src="https://github.com/user-attachments/assets/72196f37-d545-409d-ba82-646838d01186" />
+<img width="683" height="312" alt="image" src="https://github.com/user-attachments/assets/e4840aff-57b4-4186-8ff4-360dc6e29fc6" />
 
 ## Features
 - Wireless text messaging over 2.4GHz band
