@@ -15,7 +15,7 @@ A portable messaging device using NRF24L01+ modules for communication on the 2.4
 
 ## Hardware Components
 - Arduino Nano (ATmega328P)
-- NRF24L01+ 2.4GHz transceiver module
+- NRF24L01 2.4GHz transceiver module
 - SSD1306 128x64 OLED display
 - AMS1117-3.3 voltage regulator
 - TP4056 Li-Ion battery charger
@@ -67,7 +67,7 @@ TP4056 OUT → Switch → Arduino Nano VCC/GND
 
 ## Software Requirements
 - Arduino IDE
-- RF24 library for NRF24L01+
+- RF24 library for NRF24L01
 - Adafruit SSD1306 library for OLED
 - Adafruit GFX library
 
