@@ -89,3 +89,7 @@ For best results (1-2km range):
 - Consider adding external antennas to NRF24L01+ modules
 - Higher elevations improve range
 - Avoid 2.4GHz interference sources
+
+## Feedback
+
+Feel free to create a pull request or issue!
